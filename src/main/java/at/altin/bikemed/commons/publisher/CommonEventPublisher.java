@@ -1,4 +1,4 @@
-package at.altin.publisher;
+package at.altin.bikemed.commons.publisher;
 
 /**
  * CommonEventPublisher

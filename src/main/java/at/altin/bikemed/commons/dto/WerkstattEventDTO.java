@@ -1,4 +1,4 @@
-package at.altin.dto;
+package at.altin.bikemed.commons.dto;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

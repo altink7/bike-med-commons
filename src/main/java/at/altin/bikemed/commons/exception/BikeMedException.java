@@ -1,4 +1,4 @@
-package at.altin.exception;
+package at.altin.bikemed.commons.exception;
 
 import lombok.extern.slf4j.Slf4j;
 

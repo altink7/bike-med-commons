@@ -1,4 +1,4 @@
-package at.altin.config;
+package at.altin.bikemed.commons.config;
 
 import org.springframework.amqp.support.converter.DefaultClassMapper;
 import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;

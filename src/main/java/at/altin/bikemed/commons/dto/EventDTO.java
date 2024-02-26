@@ -1,4 +1,4 @@
-package at.altin.dto;
+package at.altin.bikemed.commons.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;

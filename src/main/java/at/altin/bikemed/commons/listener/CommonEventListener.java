@@ -1,4 +1,4 @@
-package at.altin.listener;
+package at.altin.bikemed.commons.listener;
 
 /**
  * CommonEventListener

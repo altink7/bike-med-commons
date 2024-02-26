@@ -1,4 +1,4 @@
-package at.altin.helper;
+package at.altin.bikemed.commons.helper;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
