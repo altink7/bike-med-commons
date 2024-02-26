@@ -10,8 +10,8 @@
     </parent>
     <groupId>at.altin.bikemedcommons</groupId>
     <artifactId>bike-med-commons</artifactId>
-    <version>1.0.1.SNAPSHOT</version>
-    <packaging>war</packaging>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
     <name>bike-med-commons</name>
     <description>bike-med-commons</description>
     <properties>
