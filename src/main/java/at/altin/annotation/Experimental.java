@@ -1,4 +1,4 @@
-package at.altin.bikemedcommons.annotation;
+package at.altin.annotation;
 
 import java.lang.annotation.*;
 

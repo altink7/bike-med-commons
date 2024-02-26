@@ -6,14 +6,17 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.2.2</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/>
     </parent>
-    <groupId>at.altin.bikemedcommons</groupId>
-    <artifactId>bike-med-commons</artifactId>
+    <groupId>at.altin</groupId>
+    <artifactId>bikemedcommons</artifactId>
     <version>1.0.0</version>
-    <packaging>jar</packaging>
-    <name>bike-med-commons</name>
-    <description>bike-med-commons</description>
+
+
+    <name>BikeMedCommons</name>
+    <description>Commons to be used for BikeMed Apps</description>
+    <url>https://altink7.github.io/</url>
+
     <properties>
         <java.version>21</java.version>
     </properties>

@@ -1,6 +1,6 @@
-package at.altin.bikemedcommons.dto;
+package at.altin.dto;
 
-import at.altin.bikemedcommons.exception.BikeMedException;
+import at.altin.exception.BikeMedException;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
