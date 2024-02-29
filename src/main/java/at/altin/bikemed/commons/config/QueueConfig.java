@@ -11,16 +11,15 @@ import lombok.Getter;
  * @author Altin
  */
 @Getter
-public enum QueueConfig {
-    QUEUE_DISPATCHER("bike-med-dispatcher-queue"),
-    QUEUE_API("bike-med-api-queue"),
-    QUEUE_WERKSTATT("bike-med-werkstatt-queue"),
-    QUEUE_LAGER("bike-med-lager-queue"),
-    QUEUE_OFFICE("bike-med-invoicing-queue");
+public class QueueConfig {
 
-    private final String name;
+   private QueueConfig() {
+       // utility class
+   }
 
-    QueueConfig(String queueName) {
-        this.name = queueName;
-    }
+    public static final String QUEUE_DISPATCHER = "bike-med-dispatcher-queue";
+    public static final String QUEUE_API = "bike-med-api-queue";
+    public static final String QUEUE_WERKSTATT = "bike-med-werkstatt-queue";
+    public static final String QUEUE_LAGER = "bike-med-lager-queue";
+    public static final String QUEUE_OFFICE = "bike-med-invoicing-queue";
 }
